@@ -1,0 +1,11 @@
+doctor_id,first_name,last_name,specialization,phone,email,department_id,experience_years
+1,Arjun,Mehta,Cardiologist,9000000001,arjun@hospital.com,1,12
+2,Neha,Kapoor,Cardiologist,9000000002,neha@hospital.com,1,8
+3,Rohan,Iyer,Neurologist,9000000003,rohan@hospital.com,2,10
+4,Priya,Nair,Neurologist,9000000004,priya@hospital.com,2,6
+5,Vikram,Singh,Orthopedic,9000000005,vikram@hospital.com,3,11
+6,Aisha,Verma,Orthopedic,9000000006,aisha@hospital.com,3,5
+7,Karan,Shah,Pediatrician,9000000007,karan@hospital.com,4,9
+8,Sana,Ali,Emergency,9000000008,sana@hospital.com,5,7
+9,Rahul,Joshi,Emergency,9000000009,rahul@hospital.com,5,4
+10,Meera,Patel,Emergency,9000000010,meera@hospital.com,5,13
